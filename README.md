@@ -1,16 +1,7 @@
-# 🚀 CRM Django + React Application
+# CRM
 
 Una aplicación CRM completa desarrollada con Django REST Framework y React con TypeScript, utilizando PostgreSQL como base de datos y Docker para la containerización.
 
-## 📋 Características
-
-- **Backend Django REST API** con filtros avanzados y paginación
-- **Frontend React con TypeScript** y shadcn/ui para una interfaz moderna
-- **Base de datos PostgreSQL** para almacenamiento robusto
-- **Gestión de datos masivos**: 5 representantes, 2000 clientes, ~213,000 interacciones
-- **Filtros inteligentes**: por nombre, cumpleaños, compañía, representante
-- **Containerización con Docker** para fácil despliegue
-- **Generación automática de datos ficticios** para testing y desarrollo
 
 ## 🏗️ Arquitectura
 
